@@ -1,0 +1,14 @@
+!SESSION 2018-10-20 15:35:43.702 -----------------------------------------------
+eclipse.buildId=4.9.0.I20180906-0745
+java.version=1.8.0_181
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.core.resources 4 77 2018-10-20 15:45:25.827
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2018-10-20 15:45:25.827
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2018-10-20 15:45:25.839
+!MESSAGE /home/developer/Workspace/ProjectOne overlaps the workspace location: /home/developer/Workspace/ProjectOne

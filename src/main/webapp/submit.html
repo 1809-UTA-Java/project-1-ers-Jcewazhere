@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Submit</title>
+</head>
+<body>
+	<h2>Submit Reimbursement Request</h2>
+
+	<form action="submit" method="post">
+	<label for="amount">How much are you requesting?</label>
+		<input type="text" name="amount"> <br>
+		<label for="amount">Please describe your request.</label>
+		<input type="text" name="description" size="50"> <br>
+			<input type="radio"	name="type" value=0 checked> Travel<br> 
+			<input type="radio" name="type" value=1> Food<br> 
+			<input type="radio" name="type" value=2> Supplies<br>
+		<button type="submit">Submit</button>
+	</form>
+</body>
+</html>
